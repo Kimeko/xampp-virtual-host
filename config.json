@@ -1,0 +1,7 @@
+{
+    "xampp_vhost_directory" : "/xampp/apache/conf/extra/httpd-vhosts.conf",
+    "xampp_files_directory": "C:/xampp/htdocs/",
+    "hosts_directory" : "/Windows/System32/drivers/etc/hosts",
+    "hosts_ip_address" : "127.0.0.1", 
+    "xampp_apache_port" : 80 
+}
